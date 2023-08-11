@@ -103,7 +103,7 @@
     "vue-typed-mixins": "^0.2.0",
     "web-ext": "^4.2.0",
     "webextensions-api-fake": "^1.2.0",
-    "webextensions-geckodriver": "^0.6.1",
+    "webextensions-geckodriver": "^0.7.0",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.11.0"
